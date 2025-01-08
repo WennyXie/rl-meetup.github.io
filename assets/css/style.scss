@@ -30,22 +30,26 @@
 .masthead h3 {
   text-align: center;
   font-size: x-large;
-  color: deepskyblue;
+  color: #495E9D;
 }
 
 .masthead a {
   font-size: xx-large;
-  color: deepskyblue;
+  color: #495E9D;
 }
 
-tr td {
-  border: none
+table {
+  width: auto;
 }
 
-h2 {
-  margin-top: 0 !important;
-}
+// tr td {
+//   border: none
+// }
 
-h3 {
-  margin-top: 0 !important;
-}
+// h2 {
+//   margin-top: 0 !important;
+// }
+
+// h3 {
+//   margin-top: 0 !important;
+// }
