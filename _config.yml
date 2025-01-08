@@ -1,5 +1,5 @@
-title: Shangtong Zhang 
-google_analytics: UA-138892479-1
+title: UVA RL Meetup 
+# google_analytics: UA-138892479-1
 author:
   name: Shangtong Zhang 
   email: shangtong.zhang.cs@gmail.com 
@@ -50,7 +50,7 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
+header_pages:
 # - markdowns/publication.md
 # - markdowns/teaching.md
 # - markdowns/people.md
