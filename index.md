@@ -19,6 +19,8 @@ layout: home
 
 This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.github.io) and [Chen-Yu Wei](https://bahh723.github.io) for their groups to share interesting RL papers using whiteboards.  
 
+<br/><br/>
+
 ## Spring 2025 
 
 | Date | Presenter | Paper |
@@ -36,13 +38,15 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Apr 18  | | |
 | Apr 25 (ICLR) | | |
 
+<br/><br/>
+
 ## Fall 2024
 
 | Date | Presenter | Paper |
 | - | -  | - |
 | Sep 27  | Shangtong Zhang | [The O.D.E. Method for Convergence of Stochastic Approximation and Reinforcement Learning](https://epubs.siam.org/doi/abs/10.1137/S0363012997331639?journalCode=sjcodc)|
-| Oct 11 | Chen-Yu Wei | [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440) |
+| Oct 11 | Chen-Yu Wei | [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/pdf/1704.06440) |
 | Oct 25 | Shuze Liu | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290) | 
-| Nov 8 | Ethan Blaser | | 
-| Nov 22 | Haolin Liu | |
+| Nov 8 | Ethan Blaser | [Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining](https://arxiv.org/pdf/2310.08566) | 
+| Nov 22 | Haolin Liu | [Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via &Chi;<sup>2</sup>-Preference Optimization](https://arxiv.org/pdf/2407.13399) |
 | Dec 6 | Jiuqi Wang | [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/pdf/2208.06193) <br> [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239) <br> [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970)|
