@@ -17,7 +17,7 @@ layout: home
     </div>
 </header>
 
-This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.github.io) and [Chen-Yu Wei](https://bahh723.github.io) for their groups to share interesting RL papers using whiteboards.  
+This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.github.io) and [Chen-Yu Wei](https://bahh723.github.io) for UVA RL folks to share interesting RL papers.  
 
 ## Spring 2025 
 
