@@ -11,11 +11,13 @@ layout: home
 <header class="masthead">
     <div class="container">
         <h3 class="masthead-title">
-            <a href="/" title="Home">UVA RL Meetup</a>
-            <br><small>The Reinforcement Learning Meetup @ University of Virginia</small>
+            <p>UVA RL Meetup</p>
+            <small>The Reinforcement Learning Meetup @ University of Virginia</small>
         </h3>
     </div>
 </header>
+
+This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.github.io) and [Chen-Yu Wei](https://bahh723.github.io) for their groups to share interesting RL papers using whiteboards.  
 
 ## Spring 2025 
 
