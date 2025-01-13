@@ -12,12 +12,17 @@ layout: home
     <div class="container">
         <h3 class="masthead-title">
             <p>UVA RL Meetup</p>
-            <small>The Reinforcement Learning Meetup @ University of Virginia</small>
+            <small>The Reinforcement Learning Meetup @ University of Virginia</small>  <br/>
+
+            <small>2-3pm Every Friday @ Rice Hall 110 </small>
         </h3>
     </div>
 </header>
 
+
 This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.github.io) and [Chen-Yu Wei](https://bahh723.github.io) for UVA RL folks to share interesting RL papers.  
+
+ 
 
 <br/><br/>
 
