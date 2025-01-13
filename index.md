@@ -14,7 +14,7 @@ layout: home
             <p>UVA RL Meetup</p>
             <small>The Reinforcement Learning Meetup @ University of Virginia</small>  <br/>
 
-            <small>2-3pm Every Friday @ Rice Hall 110 </small>
+            <small>2-3pm Friday @ Rice Hall 110 </small>
         </h3>
     </div>
 </header>
