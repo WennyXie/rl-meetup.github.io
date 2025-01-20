@@ -28,7 +28,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 
 ## Spring 2025 
 
-| Date | Presenter | Paper |
+| Date | Presenter | Paper/Topic |
 | - | -  | - |
 | Feb 7  | | | 
 | Feb 14  | | | 
@@ -38,7 +38,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 14 (Spring Break) | | | 
 | Mar 21  | | | 
 | Mar 28  | | |
-| Apr 4  | | |
+| Apr 4  | Dylan Foster | |
 | Apr 11  | | |
 | Apr 18  | | |
 | Apr 25 (ICLR) | | |
