@@ -28,7 +28,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 
 ## Spring 2025 
 
-| Date | Presenter | Paper/Topic |
+| Date | Presenter | Paper or Topic |
 | - | -  | - |
 | Feb 7  | | | 
 | Feb 14  | | | 
