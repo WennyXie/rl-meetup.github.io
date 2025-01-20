@@ -38,8 +38,8 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 14 (Spring Break) | | | 
 | Mar 21  | | | 
 | Mar 28  | | |
-| Apr 4  | Dylan Foster | |
-| Apr 11  | | |
+| Apr 4  | | |
+| Apr 11  | Dylan Foster | |
 | Apr 18  | | |
 | Apr 25 (ICLR) | | |
 
