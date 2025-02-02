@@ -39,7 +39,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 21  | | | 
 | Mar 28  | | |
 | Apr 4  | | |
-| Apr 11  | Dylan Foster | |
+| Apr 11  | [Dylan Foster](https://dylanfoster.net) | |
 | Apr 18  | | |
 | Apr 25 (ICLR) | | |
 
