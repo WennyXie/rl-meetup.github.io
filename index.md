@@ -30,11 +30,11 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 
 | Date | Presenter | Paper or Topic |
 | - | -  | - |
-| Feb 7  | | | 
-| Feb 14  | | | 
+| Feb 7  | Zixuan Xie | | 
+| Feb 14  | Xinyu Liu | | 
 | Feb 21  | | | 
 | Feb 28 (AAAI) | | | 
-| Mar 7  | | | 
+| Mar 7  | Braham Snyder | | 
 | Mar 14 (Spring Break) | | | 
 | Mar 21  | | | 
 | Mar 28  | | |
