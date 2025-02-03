@@ -30,7 +30,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 
 | Date | Presenter | Paper or Topic |
 | - | -  | - |
-| Feb 7  | Zixuan Xie | Analytic-DPM: An Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (https://arxiv.org/abs/2201.06503), Bao et al.| 
+| Feb 7  | Zixuan Xie | Analytic-DPM: An Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models (https://arxiv.org/abs/2201.06503)| 
 | Feb 14  | Xinyu Liu | | 
 | Feb 21  | | | 
 | Feb 28 (AAAI) | | | 
