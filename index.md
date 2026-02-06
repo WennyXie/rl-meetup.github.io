@@ -30,7 +30,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Feb 13  | Haolin Liu | | 
 | Feb 20 | Braham Snyder | | 
 | Feb 27 |  | | 
-| Mar 6 |  | | 
+| Mar 6 | Zixuan Xie | | 
 | Mar 13  | | | 
 | Mar 20  | |  |
 | Mar 27  | | |
